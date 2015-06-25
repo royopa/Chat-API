@@ -10,6 +10,14 @@ For new WhatsApp updates check **[WhatsApp incoming updates log](https://github.
 
 ----------
 
+## Installation
+
+```sh
+composer require whatsapp/chat-api
+```
+
+----------
+
 ### Special thanks
 
 - [CODeRUS](https://github.com/CODeRUS)
